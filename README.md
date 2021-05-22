@@ -1,2 +1,1 @@
-# data-mining
-Data Mining for Business Analytics
+# Data Mining for Business Analytics
